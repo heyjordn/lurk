@@ -12,10 +12,8 @@ Before :scream:
 After :smiley:
 ![](screenshots/after.png)
 ## Install
-
- For now, install [manually](http://superuser.com/a/247654/6877).
-
-Available on `Chrome Web Store` on `August 31, 2017`.
+Install from the [Chrome Web Store](https://chrome.google.com/webstore/detail/pgfoeicbhpbgpcdgdmolagebpaheieeb/publish-accepted?hl=en-US&gl=001&authuser=1)
+or install [manually](http://superuser.com/a/247654/6877).
 
 ## Keyboard shortcuts
 
