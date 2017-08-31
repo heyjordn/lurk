@@ -13,7 +13,9 @@ After :smiley:
 ![](screenshots/after.png)
 ## Install
 
-Install it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/refined-twitter/nlfgmdembofgodcemomfeimamihoknip) or [manually](http://superuser.com/a/247654/6877).
+ For now, install [manually](http://superuser.com/a/247654/6877).
+
+Available on `Chrome Web Store` on `August 31, 2017`.
 
 ## Keyboard shortcuts
 
@@ -33,6 +35,9 @@ Install it from the [Chrome Web Store](https://chrome.google.com/webstore/detail
 - Page up: <kbd>Ctrl</kbd> <kbd>u</kbd>
 - Scroll to top: <kbd>g</kbd> <kbd>g</kbd>
 - Scroll to bottom: <kbd>G</kbd>
+
+## TODO
+- dark mode
 
 ## Credits
 Lurk is heavily inspired by these related apps
