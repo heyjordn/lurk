@@ -1,0 +1,171 @@
+/*
+ * Ported from Anatine - https://github.com/sindresorhus/anatine/blob/master/dark-mode.css
+ * Changes should be made there first and copied over
+ */
+
+/* improved text rendering */
+html.dark-mode * {
+	-webkit-font-smoothing: antialiased !important;
+}
+
+/* background colours */
+html.dark-mode, html.dark-mode body, 
+html.dark-mode .global-nav-inner,
+html.dark-mode .tweet{
+	background-color: #192633 !important;
+}
+
+html.dark-mode .tweet{
+	color: rgba(255, 255, 255, 0.75) !important;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+/* search lists */
+html.dark-mode ._10lTeTjh,
+/* unread DM */
+html.dark-mode .ux8RIzeT {
+	background: rgba(255, 255, 255, 0.04);
+}
+
+/* navbar border */
+html.dark-mode ._3vk57kRX,
+/* input box border */
+html.dark-mode ._2qaFoaOS,
+/* compose tweet border */
+html.dark-mode ._-99S9zHC,
+/* suggested people */
+html.dark-mode ._3npsCUvN,
+/* spacer border top */
+html.dark-mode ._2-x3RLq2,
+/* retweet count borders */
+html.dark-mode ._1N8xRqVj,
+html.dark-mode ._3h5wA3M_,
+/* heading border */
+html.dark-mode ._3FIA3A1x,
+/* DM message border */
+html.dark-mode .CUNMHrsb,
+/* DM compose top border */
+html.dark-mode ._2uy9nnFz,
+/* element seperators */
+html.dark-mode .ldQL7yes,
+html.dark-mode ._1yjej2X8,
+html.dark-mode ._3ZZxL70j,
+html.dark-mode .nKo5qNPt,
+html.dark-mode ._1jPp6AzZ,
+html.dark-mode .yb8sRFPz,
+/* login page log in button */
+body.sessions-new-page .button.signup,
+html.dark-mode .c2-JCY2V ._222QxFjc ._1BmZ-Yeo {
+	border-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* base font colour */
+html.dark-mode,
+html.dark-mode nav,
+/* embedded media title */
+html.dark-mode ._12jQTkIJ,
+/* embedded media text */
+html.dark-mode ._3qXEQLXF,
+/* retweeted tweet body */
+html.dark-mode ._3EzK97M9 > span,
+/* tweet stat numbers */
+html.dark-mode ._3O8j-ZpD {
+	color: rgba(255, 255, 255, 0.75);
+}
+
+/* user "real name" */
+html.dark-mode .E3BRg3uP,
+/* follower counts */
+html.dark-mode ._3YZtKRZQ {
+	color: rgba(255, 255, 255, 0.9);
+}
+
+/* Heading text */
+html.dark-mode ._2qaFoaOS,
+html.dark-mode h1,
+html.dark-mode h2,
+/* input text */
+html.dark-mode textarea {
+	color: rgba(255, 255, 255, 0.9) !important;
+}
+
+/* buttons */
+html.dark-mode ._2f-qOhRh {
+	background: transparent;
+	color: rgb(255, 255, 255) !important;
+}
+
+/* reply markers */
+html.dark-mode ._1jtqWh_6 {
+	background-color: rgba(255, 255, 255, 0.4) !important;
+}
+
+/* embedded media border colour and background */
+html.dark-mode ._1B_Ve7vd,
+html.dark-mode ._1VCZAQjr,
+html.dark-mode ._1t1IjKv5 {
+	background-color: #2A3D51 !important;
+	border-color: rgba(255, 255, 255, 0.1);
+}
+
+/* poll colour */
+html.dark-mode ._1BBfOLht {
+	background-color: #0084ff !important;
+}
+
+/* DM conversation received text */
+html.dark-mode ._1xAkv3Rq._3tixQkQf {
+	color: rgba(255, 255, 255, 0.5) !important;
+}
+
+/* DM send message textfield */
+html.dark-mode ._3gsfT3lC .JFlBIqN4,
+/* DM search box */
+html.dark-mode .JFlBIqN4 {
+	background: rgba(255, 255, 255, 0.1) !important;
+	color: rgba(255, 255, 255, 0.9);
+}
+
+/* DM conversation received bubble */
+html.dark-mode ._1xAkv3Rq .Y5C1ukbR {
+	background-color: #303B47 !important;
+}
+
+/* DM conversation received hide white triangle */
+html.dark-mode ._37woGctS:before {
+	visibility: hidden;
+}
+
+/* DM Send button */
+html.dark-mode ._1LQ_VFHl {
+	border-color: #0084ff;
+}
+
+/* Trending item title */
+html.dark-mode ._2WpoiLFQ {
+	color: rgba(255, 255, 255, 0.6);
+}
+
+/* new notification highlight in the Notifications tab */
+html.dark-mode ._1O-UMNIz {
+	background-color: rgba(255, 255, 255, 0.04) !important
+}
+
+/* Notification tab activity indicator */
+html.dark-mode ._3CC9EHgm {
+	box-shadow: 0 0 0 .14rem #192633 !important;
+}
+
+/* change scrollbar style */
+html.dark-mode:-webkit-any(.os-linux, .os-win32) ::-webkit-scrollbar {
+	background-color: #2f3b47 !important;
+}
+html.dark-mode:-webkit-any(.os-linux, .os-win32) ::-webkit-scrollbar-thumb {
+	background-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+html.dark-mode ._3ZSf8YGw,
+html.dark-mode ._3qQLFoYV, ._3qQLFoYV:active, ._3qQLFoYV:focus, ._3qQLFoYV:hover,
+html.dark-mode ._3ZNFEy6P, ._3ZNFEy6P:active, ._3ZNFEy6P:focus, ._3ZNFEy6P:hover {
+	color: white !important;
+}

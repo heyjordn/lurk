@@ -1,0 +1,48 @@
+/* Global */
+body {
+	background-color: white !important;
+}
+.dashboard {
+	display: none;
+}
+
+/* Timeline and tweets*/
+#timeline {
+	width: 590px;
+	float: none;
+	margin: 0 auto;
+}
+
+.home-tweet-box {
+	display: none;
+}
+.ProfileTweet-actionList {
+	display: none;
+}
+
+.stream-item {
+	border: none !important;
+}
+
+.new-tweets-bar {
+	background-color: white !important;
+}
+
+/* Navbar */
+.AppContent {
+	padding: 46px 14px 15px !important;
+}
+.global-nav [role=navigation], .nav, .nav>li {
+	float: none !important;
+}
+#global-actions>li {
+	display: inline-block;
+}
+
+.nav-extras {
+	display: none !important;
+}
+
+.bird-topbar-etched {
+	display: none !important;
+}
