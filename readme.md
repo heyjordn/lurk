@@ -12,7 +12,7 @@ Before :scream:
 After :smiley:
 ![](screenshots/after.png)
 ## Install
-Install from the [Chrome Web Store](https://chrome.google.com/webstore/detail/pgfoeicbhpbgpcdgdmolagebpaheieeb/publish-accepted?hl=en-US&gl=001&authuser=1)
+Install from the [Chrome Web Store](https://chrome.google.com/webstore/detail/lurk/pgfoeicbhpbgpcdgdmolagebpaheieeb)
 or install [manually](http://superuser.com/a/247654/6877).
 
 ## Keyboard shortcuts
