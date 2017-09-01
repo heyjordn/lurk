@@ -1,6 +1,6 @@
 # <img src="extension/icon.png" width="40" style="margin-right:5px" align="left"> Lurk
 
-> Twitter, for those who don't want to tweet.
+> A Chrome extension that removes the clutter from Desktop Twitter's layout, leaving a minimal timeline with just tweets, it also comes with features such as keyboard shortcuts and disabling actions when you want to lurk in peace.
 
 ## Why
 
