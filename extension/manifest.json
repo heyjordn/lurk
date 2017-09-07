@@ -11,6 +11,11 @@
 		"storage",
 		"https://twitter.com/*"
 	],
+	"applications": {
+		"gecko": {
+			"id": "twitterlurk@twitterlurk.com"
+		}
+	},
 	"background": {
 		"scripts": [
 			"background.js"

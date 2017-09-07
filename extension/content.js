@@ -40,11 +40,11 @@ function registerShortcuts(username) {
     $('a[href$="/account"]').click();
     $(`a[href$="/${username}/lists"]`).click();
   });
-  /*
+
   Mousetrap.bind("d", () => {
     toggleDarkMode();
   });
-
+  /*
   Mousetrap.bindGlobal("esc", () => {
     const btn = $("button._158OzO7l");
 
@@ -149,6 +149,9 @@ function applyMode(isDark) {
 function init() {
   // apply dark mode with local storage value
   getMode().then(applyMode);
+
+  // Register keybindings
+  registerShortcuts();
 }
 
 document.addEventListener("DOMContentLoaded", () => {
