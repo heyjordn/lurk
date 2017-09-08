@@ -6,11 +6,8 @@
 
 I just want to see tweets from people I follow, the rest of twitter is distracting
 
-Before :scream:
-![](screenshots/before.png)
+![](screenshots/lurk.gif)
 
-After :smiley:
-![](screenshots/after.png)
 ## Install
 Install from the [Chrome Web Store](https://chrome.google.com/webstore/detail/lurk/pgfoeicbhpbgpcdgdmolagebpaheieeb)
 or install [manually](http://superuser.com/a/247654/6877).
