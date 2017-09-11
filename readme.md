@@ -15,7 +15,6 @@ or install [manually](http://superuser.com/a/247654/6877).
 ## Keyboard shortcuts
 
 - New tweet/DM: <kbd>n</kbd>
-- Send tweet/DM: <kbd>Cmd</kbd> <kbd>Enter</kbd> or <kbd>Ctrl</kbd> <kbd>Enter</kbd>
 - Toggle dark mode: <kbd>d</kbd>
 - Go to Home: <kbd>g</kbd> <kbd>h</kbd>
 - Go to Notifications: <kbd>g</kbd> <kbd>n</kbd>

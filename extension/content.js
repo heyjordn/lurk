@@ -44,27 +44,17 @@ function registerShortcuts(username) {
   Mousetrap.bind("d", () => {
     toggleDarkMode();
   });
-  /*
+
   Mousetrap.bindGlobal("esc", () => {
-    const btn = $("button._158OzO7l");
+    const btn = $("span.Icon.Icon--close.Icon--large");
 
     if (btn) {
       btn.click();
     }
   });
 
-  Mousetrap.bindGlobal("command+enter", () => {
-    if (window.location.pathname === "/compose/tweet") {
-      $("button._1LQ_VFHl._2cmVIBgK").click();
-    }
-
-    if (window.location.pathname.split("/")[1] === "messages") {
-      $('button[data-testid="dmComposerSendButton"]').click();
-    }
-  });
-
   Mousetrap.bind("right", () => {
-    const nextBtn = $("button._2p6iBzFu._2UbkmNPH");
+    const nextBtn = $("span.Icon.Icon--caretRight.Icon--large");
 
     if (nextBtn) {
       nextBtn.click();
@@ -72,13 +62,13 @@ function registerShortcuts(username) {
   });
 
   Mousetrap.bind("left", () => {
-    const prevBtn = $("button._2p6iBzFu.lYVIpMQ4");
+    const prevBtn = $("span.Icon.Icon--caretLeft.Icon--large");
 
     if (prevBtn) {
       prevBtn.click();
     }
   });
-*/
+
   // vim bindings
   const pageScrollPctHeight = 0.9;
   const fromScrollTop = n => document.body.scrollTop + n;
