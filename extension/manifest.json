@@ -1,6 +1,6 @@
 {
 	"name": "Lurk",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "Twitter, for those who don't tweet",
 	"homepage_url": "https://github.com/Pr0x1m4/lurk",
 	"manifest_version": 2,
@@ -31,15 +31,9 @@
 				"https://twitter.com/*"
 			],
 			"css": [
-				"content.css",
-				"dark-mode.css"
+				"content.css"
 			],
 			"js": [
-				"vendor/mousetrap.js",
-				"vendor/mousetrap-global-bind.js",
-				"vendor/element-ready.js",
-				"vendor/scroll-to-tweet.js",
-				"vendor/hide-promoted-tweets.js",
 				"content.js"
 			]
 		}

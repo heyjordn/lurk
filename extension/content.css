@@ -1,48 +1,26 @@
-/* Global */
-body {
-	background-color: white !important;
+/*Header/Left Panel*/
+header.css-1dbjc4n.r-obd0qt.r-16y2uox.r-1g40b8q{
+	display:none;
 }
-.dashboard {
+/*Tweetbox*/
+.css-1dbjc4n.r-1iusvr4.r-16y2uox.r-15d164r.r-5f2r5o.r-1bylmt5.r-13tjlyg.r-7qyjyx.r-1ftll1t{
+	display: none;
+}
+/*Right Panel*/
+.css-1dbjc4n.r-aqfbo4.r-zso239.r-1hycxz {
 	display: none;
 }
 
-/* Timeline and tweets*/
-#timeline {
-	width: 590px;
-	float: none;
+/*Main Panel Center*/
+.css-1dbjc4n.r-150rngu.r-16y2uox.r-1wbh5a2.r-rthrr5 {
+	margin: 0 auto;
+}
+/*Inner Container*/
+.css-1dbjc4n.r-yfoy6g.r-18bvks7.r-1ljd8xs.r-13l2t4g.r-1phboty.r-1jgb5lz.r-11wrixw.r-61z16t.r-1ye8kvj.r-13qz1uu.r-184en5c {
 	margin: 0 auto;
 }
 
-.home-tweet-box {
-	display: none;
-}
-.ProfileTweet-actionList {
-	display: none;
-}
-
-.stream-item {
-	border: none !important;
-}
-
-.new-tweets-bar {
-	background-color: white !important;
-}
-
-/* Navbar */
-.AppContent {
-	padding: 46px 14px 15px !important;
-}
-.global-nav [role=navigation], .nav, .nav>li {
-	float: none !important;
-}
-#global-actions>li {
-	display: inline-block;
-}
-
-.nav-extras {
-	display: none !important;
-}
-
-.bird-topbar-etched {
-	display: none !important;
+/*Tweet Headers*/
+.css-1dbjc4n.r-18u37iz.r-thb0q2 {
+	padding-bottom: 10px;
 }
