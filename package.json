@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "release": "webstore upload --source=extension --extension-id=nlfgmdembofgodcemomfeimamihoknip --auto-publish",
+    "release": "webstore upload --source=extension --extension-id=pgfoeicbhpbgpcdgdmolagebpaheieeb --auto-publish",
     "test": "xo"
   },
   "devDependencies": {

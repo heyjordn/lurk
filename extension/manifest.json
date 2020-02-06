@@ -2,24 +2,16 @@
 	"name": "Lurk",
 	"version": "2.0.0",
 	"description": "Twitter, for those who don't tweet",
-	"homepage_url": "https://github.com/Pr0x1m4/lurk",
+	"homepage_url": "https://github.com/heyjordn/lurk",
 	"manifest_version": 2,
 	"minimum_chrome_version": "50",
 	"permissions": [
-		"webRequest",
-		"webRequestBlocking",
-		"storage",
 		"https://twitter.com/*"
 	],
 	"applications": {
 		"gecko": {
 			"id": "twitterlurk@twitterlurk.com"
 		}
-	},
-	"background": {
-		"scripts": [
-			"background.js"
-		]
 	},
 	"icons": {
 		"128": "icon.png"
@@ -32,9 +24,6 @@
 			],
 			"css": [
 				"content.css"
-			],
-			"js": [
-				"content.js"
 			]
 		}
 	]
